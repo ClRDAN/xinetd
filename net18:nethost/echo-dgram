@@ -3,7 +3,7 @@
 service echo
 {
 # This is for quick on or off of the service
-	disable		= yes
+	disable		= no 
 
 # The next attributes are mandatory for all services
 	id		= echo-dgram
